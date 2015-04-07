@@ -1,0 +1,3 @@
+#!/bin/sh
+GIT_WORK_TREE=/home/nkatre/Desktop/csc591/Deployment/deploy/blue-www/ git checkout -f
+npm install
